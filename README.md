@@ -1,4 +1,4 @@
-# 3DV-2022 Assignment: Single View to 3D
+# 3DV-2023 Assignment: Single View to 3D
 
 Goals: In this assignment, you will explore the types of loss and decoder functions for regressing to voxels, point clouds, and ~~mesh~~ representation from single view RGB input.
 
